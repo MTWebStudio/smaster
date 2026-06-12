@@ -1,0 +1,19 @@
+{
+  "name": "Шино-Мастер | Шиномонтаж в Королёве",
+  "short_name": "Шино-Мастер",
+  "description": "Шиномонтаж, ремонт шин и дисков, балансировка, аргонная сварка и хранение шин в Королёве.",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/brand/shino-master-logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
